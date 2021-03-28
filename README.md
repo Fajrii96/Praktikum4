@@ -7,3 +7,4 @@ Tugas Nomer 2 adalah Inner.java
 ![Inner class](https://user-images.githubusercontent.com/80385024/112766319-6fe9de00-903b-11eb-85aa-b87964692310.jpg)
 
 Tugas Nomer 3 Adalah Static.java
+![static class](https://user-images.githubusercontent.com/80385024/112766359-a4f63080-903b-11eb-9fcd-1b44c18fc1ea.jpg)
